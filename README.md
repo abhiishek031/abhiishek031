@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek kumar.I'm a Tech fervent and 3rd year IT student with expertise in programing languages, DSA and Frontend development.I am an enthusiast who is ready to explore new domains and get the most out of it.
+- 👋 Hi, I am a passionate and curious third-year IT student with expertise in programming languages, data structures algorithms, web development, and a growing interest in machine learning. Through self-study and hands-on projects, I have acquired a good understanding of web development and machine learning principles. I remain steadfast in my commitment to perpetual growth, ceaselessly striving to unlock my full potential across a diverse spectrum of technological domains.
 - 👀 I’m interested in coding, web developing, Problem solving
 - 🌱 I’m currently learning Full stack development DSA ML
 - 📫 How to reach me https://www.linkedin.com/in/abhishek-kumar-7517b8209/
